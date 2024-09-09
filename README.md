@@ -1,6 +1,3 @@
-
-# Building Data Warehouse, OLAP, SSRS And Data Mining For Housing Prices In Beijing
-
 # [IS217] Data Warehouse and OLAP
 <h2>FINAL PROJECT</h2>
 Topic:  BUILDING A DATA WAREHOUSE AND OLAP FOR HOUSING PRICES IN BEIJING<br>
