@@ -12,9 +12,9 @@ Class: IS217.O22.HTCL<br>
 * Topic: **BUILDING A DATA WAREHOUSE AND OLAP FOR HOUSING PRICES IN BEIJING**
 * Purpose:
   - BUILD A DATA WAREHOUSE AND ANALYZE HOUSING PRICES IN BEIJING
-    - SSIS(Microsoft SQL Server Integration Services) for Building data warehouse
-    - SSAS(Microsoft Analysis Services) for Analyze data
-    - SSRS(SQL Server Reporting Services) for Report
+    - SSIS (Microsoft SQL Server Integration Services) for Building data warehouse
+    - SSAS (Microsoft Analysis Services) for Analyze data
+    - SSRS (SQL Server Reporting Services) for Report
     - Data Mining
 
 
