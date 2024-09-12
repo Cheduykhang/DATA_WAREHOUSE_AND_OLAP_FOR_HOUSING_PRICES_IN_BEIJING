@@ -11,6 +11,8 @@ Class: IS217.O22.HTCL<br>
   - BUILD A DATA WAREHOUSE AND ANALYZE HOUSING PRICES IN BEIJING
     - SSIS (Microsoft SQL Server Integration Services) for Building data warehouse
     - SSAS (Microsoft Analysis Services) for Analyze data
+    - Pivot Excel for Analyze data
+    - Power BI for Data Visualiztion
     - SSRS (SQL Server Reporting Services) for Report
     - Data Mining
 
