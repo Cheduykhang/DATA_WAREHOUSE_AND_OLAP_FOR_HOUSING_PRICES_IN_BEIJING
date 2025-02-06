@@ -16,7 +16,7 @@ Class: IS217.O22.HTCL<br>
     - SSRS (SQL Server Reporting Services) for Report
     - Data Mining
   
-![Slide Summary Result](https://github.com/Cheduykhang/DATA_WAREHOUSE_AND_OLAP_FOR_HOUSING_PRICES_IN_BEIJING/blob/main/Slide/Slide_Summary.pptx)
+[Slide Summary Result](https://github.com/Cheduykhang/DATA_WAREHOUSE_AND_OLAP_FOR_HOUSING_PRICES_IN_BEIJING/blob/main/Slide/Slide_Summary.pptx)
 
 ## Team members
 | STT | MSSV | Full name | Role | Github | Email |
